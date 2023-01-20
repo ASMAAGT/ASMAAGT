@@ -1,10 +1,13 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=500&color=F7365EE6&width=435&lines=Hello+Gorgeous+%E2%99%A5)](https://git.io/typing-svg)
- 
+
+ [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)   
 
 ![](https://komarev.com/ghpvc/?username=ASMAAGT&color=ff69b4)      
 
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)      
+YOU SPEAK MY LANGUAGES ?
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,py,php,nodejs,java,flutter,androidstudio,c,dotnet,)](https://skillicons.dev)
+   
 
 
 <!--
