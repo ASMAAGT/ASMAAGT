@@ -1,6 +1,6 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+Cuties)](https://git.io/typing-svg)
-### Hi Cutie 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+Cuties+♥)](https://git.io/typing-svg)
+
 ![](https://komarev.com/ghpvc/?username=ASMAAGT)      
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
