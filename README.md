@@ -1,8 +1,6 @@
 ### Hi there 👋
 ![](https://komarev.com/ghpvc/?username=ASMAAGT)
-<a href="#">
-    <img src="help/badge1.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
-  </a>  
+https://forthebadge.com/images/badges/built-with-love.svg  
 <!--
 **ASMAAGT/ASMAAGT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
