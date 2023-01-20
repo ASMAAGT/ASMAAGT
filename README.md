@@ -4,11 +4,10 @@
 __ABOUT ME ✌🏻__    
 *Guetari Asma 🌸*  
 *Software Engineer 👩🏻‍💻*   
-*Tunisia 📍*
+*Tunisia 📍*  
 
 
-
-![](https://komarev.com/ghpvc/?username=ASMAAGT&color=ff69b4)      
+-----------------------------------------------------------------    
 
 __DO YOU SPEAK MY LANGUAGES 💪✨?__    
 
