@@ -1,9 +1,9 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=500&color=F7365EE6&width=435&lines=Hello+Gorgeous+%E2%99%A5)](https://git.io/typing-svg)
-__ABOUT ME ✌🏻__  
-*Guetari Asma 🌸*
-*Software Engineer 👩🏻‍💻* 
-*Tunisia 📍*
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=500&color=F7365EE6&width=435&lines=Hello+Gorgeous+%E2%99%A5)](https://git.io/typing-svg)  
+__ABOUT ME ✌🏻__    
+*Guetari Asma 🌸*  
+*Software Engineer 👩🏻‍💻*   
+*Tunisia 📍*  
  [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)   
 
 ![](https://komarev.com/ghpvc/?username=ASMAAGT&color=ff69b4)      
