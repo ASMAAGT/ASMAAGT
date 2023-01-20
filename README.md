@@ -11,9 +11,9 @@ __ABOUT ME ✌🏻__
 
 __DO YOU SPEAK MY LANGUAGES 💪✨?__    
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,py,php,nodejs,java,flutter,androidstudio,c,dotnet,)](https://skillicons.dev)  
------------------------------------------------------
- [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)     
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,py,php,nodejs,java,flutter,androidstudio,c,dotnet,)](https://skillicons.dev)    
+---------------------------------------------------------------------
+ [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)       
  
 ![](https://komarev.com/ghpvc/?username=ASMAAGT&color=ff69b4)   
    
