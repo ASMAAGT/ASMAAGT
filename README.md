@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&pause=500&color=F71664&multiline=true&width=435&lines=Hello+Gorgeous+%E2%99%A5;A+girl+with+magical+powers+;who+can+hack+your+day+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=500&color=F7365EE6&width=435&lines=Hello+Gorgeous+%E2%99%A5)](https://git.io/typing-svg)✨ 
 
 ![](https://komarev.com/ghpvc/?username=ASMAAGT)      
 
