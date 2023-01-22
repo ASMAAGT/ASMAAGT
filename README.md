@@ -11,7 +11,7 @@
 
 ## __DO YOU SPEAK MY LANGUAGES 💪✨?__    
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,py,php,nodejs,java,flutter,androidstudio,c,dotnet,)](https://skillicons.dev)    
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,py,php,nodejs,java,flutter,androidstudio,c,dotnet,c++)](https://skillicons.dev)    
 ---------------------------------------------------------------------
  [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)       
  
