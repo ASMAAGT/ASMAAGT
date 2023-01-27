@@ -3,7 +3,7 @@
 
 ## __ABOUT ME ✌🏻__    
 *Guetari Asma 🌸*  
-*Student 👩‍🎓 *
+*Student 👩‍🎓 *  
 *Software Engineer 👩🏻‍💻*   
 *Tunisia 📍*  
 
