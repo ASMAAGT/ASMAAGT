@@ -15,7 +15,7 @@
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,py,php,java,c,cpp,cs)](https://skillicons.dev)    
 ---------------------------------------------------------------------
 ## __SKILLS 👩‍💻✨__ 
-[![My Skills](https://skillicons.dev/icons?i=react,nodejs,flutter,androidstudio,dotnet,angular,symfony,arduino,linux,figma,xd,ai,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,flutter,androidstudio,dotnet,angular,symfony,arduino,linux,figma,xd,vscode)](https://skillicons.dev)
 --------------------------------------------------------------------------
  [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)       
  
